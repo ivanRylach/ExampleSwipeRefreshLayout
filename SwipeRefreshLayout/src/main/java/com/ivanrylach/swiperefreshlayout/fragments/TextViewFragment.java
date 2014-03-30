@@ -8,7 +8,7 @@ import com.ivanrylach.swiperefreshlayout.R;
 /**
  * <p/>
  * Created by Ivan Rylach,
- * ivan@perzo.com
+ * ivan.rylach@gmail.com
  */
 public class TextViewFragment extends SwipableFragment{
 

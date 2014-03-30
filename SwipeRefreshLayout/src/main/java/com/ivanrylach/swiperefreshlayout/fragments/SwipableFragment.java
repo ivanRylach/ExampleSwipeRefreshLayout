@@ -13,7 +13,7 @@ import com.ivanrylach.swiperefreshlayout.R;
 /**
  * <p/>
  * Created by Ivan Rylach,
- * ivan@perzo.com
+ * ivan.rylach@gmail.com
  */
 
 public abstract class SwipableFragment extends Fragment implements SwipeRefreshLayout.OnRefreshListener {

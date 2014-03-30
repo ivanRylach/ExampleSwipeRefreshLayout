@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * <p/>
  * Created by Ivan Rylach,
- * ivan@perzo.com
+ * ivan.rylach@gmail.com
  */
 
 public class DummyContent {
