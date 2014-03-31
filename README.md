@@ -2,7 +2,10 @@ ExampleSwipeRefreshLayout
 =========================
 Common usages of [SwipeRefreshLayout][1]
 
-[Google Play][2]
+<a href="https://play.google.com/store/apps/details?id=com.ivanrylach.swiperefreshlayout">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a>
 
 Developed by
 =========================
